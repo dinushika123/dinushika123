@@ -1,7 +1,7 @@
   Hi there 👋
 
  # 💫 About Me:
-I am a software engineering student at the Java Institute in Sri Lanka, currently working as a front-end developer at Kreedx Dev Club. Passionate about web development and constantly enhancing my skills in creating intuitive user interfaces
+I am a software engineering student at the Java Institute in Sri Lanka, currently working as a front-end developer at Kreedx Dev Club. Passionate about web development and constantly enhancing my skills in creating intuitive user interfaces.
 
 
 ## 🌐 Socials:
